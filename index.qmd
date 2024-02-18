@@ -1,0 +1,110 @@
+---
+title: "Ejercicios de integrales"
+format: 
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+---
+
+## Integrales por sustitución
+:::: {layout="[0.5, 0.5]"}
+
+:::{#firstcol}
+1. $$\int \frac{x}{(x^2 + 2)^2}\, dx$$
+
+1. $$\int \cos(\cos(x))\operatorname{sen}(x)\, dx$$
+
+1. $$\int x^3 e^{-x^4}\, dx$$
+
+1. $$\int \operatorname{tg}(x)\, dx $$
+:::
+
+:::{#secondcol}
+5. $$\int \sin^3(x) \cos(x)\, dx$$
+
+1. $$\int e^{e^x}\, e^x\, dx$$
+
+1. $$\int e^{\sqrt{x}}\, dx$$
+
+1. $$\int \frac{-x}{(x+1)-\sqrt{x+1}}\, dx$$
+:::
+
+::::
+
+## Integrales por partes
+:::: {layout="[0.5, 0.5]"}
+
+:::{#firstcol}
+9. $$\int x^2e^x\, dx$$
+1. $$\int e^x\sin(x)\, dx$$
+1. $$\int \operatorname{arctg}(x)\, dx$$
+1. $$\int x\operatorname{arctg}(x)\, dx$$
+
+:::
+
+:::{#secondcol}
+
+13.  $$\int \ln(\cos(x))\, dx$$
+1. $$\int e^x (\ln x)^2 \, dx$$
+1. $$\int \sin^2(x) \cos(x) \, dx$$
+1. $$\int \operatorname{sen}(\ln(x))\, dx$$ 
+:::
+
+::::
+
+## Integrales trigonométricas
+
+:::: {layout="[0.5, 0.5]"}
+
+:::{#firstcol}
+17. $$\int \sin^3(x) \cos^2(x)\, dx$$
+1. $$\int \tan^3(x) \sec^2(x) \, dx$$
+:::
+
+:::{#secondcol}
+19. $$\int \sin^2(x) \, dx$$
+1. $$\int \sec^3(x) \, dx$$
+:::
+
+::::
+
+
+
+## Integrales por sustitución trigonométrica
+
+:::: {layout="[0.5, 0.5]"}
+
+:::{#firstcol}
+21. $$\int \sqrt{4 - x^2}\, dx$$
+1. $$\int \sqrt{2 + 4x^2}\, dx$$
+1. $$\int \frac{dx}{\sqrt{x^2-a^2}}\, dx$$
+:::
+
+:::{#secondcol}
+24.  $$\int \frac{dx}{\sqrt{x^2 + a^2}}\, dx$$
+1. $$\int x\sqrt{9 - x^2} \, dx$$
+1. $$\int \sqrt{x^2 + 2x + 2} \, dx$$
+:::
+
+::::
+
+
+
+## Integrales racionales
+
+:::: {layout="[0.5, 0.5]"}
+
+:::{#firstcol}
+27. $$\int \frac{x^3}{x^2 - 2x + 1} \, dx$$
+1. $$\int \frac{x+1}{x^3+2x^2+x}\, dx$$ 
+1. $$\int \frac{x^2 + 3x + 5}{x^3 - 7x + 6} \, dx$$
+:::
+
+:::{#secondcol}
+30.  $$\int \frac{x}{x^2 + 2x + 5} \, dx$$
+21.  $$\int \frac{x^3 + 2}{x(x - 1)(x + 2)} \, dx$$
+22. $$\int \frac{2x^2 + 3x + 5}{(x^2+x+1)(x-1)} \, dx$$
+:::
+
+::::
