@@ -78,7 +78,7 @@ format:
 :::{#firstcol}
 21. $$\int \sqrt{4 - x^2}\, dx$$
 1. $$\int \sqrt{2 + 4x^2}\, dx$$
-1. $$\int \frac{dx}{\sqrt{x^2-a^2}}\, dx$$
+1. $$\int \frac{1}{\sqrt{x^2-a^2}}\, dx$$
 :::
 
 :::{#secondcol}
