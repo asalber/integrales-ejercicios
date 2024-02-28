@@ -45,7 +45,7 @@ format:
 
 :::{#secondcol}
 
-13.  $$\int \ln(\cos(x))\, dx$$
+13.  $$\int \cos(\ln(x))\, dx$$
 1. $$\int e^x (\ln x^2) \, dx$$
 1. $$\int \sin(x)^2 \cos(x) \, dx$$
 1. $$\int \operatorname{sen}(\ln(x))\, dx$$ 
